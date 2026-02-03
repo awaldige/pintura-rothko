@@ -1,51 +1,59 @@
-Rothko Painting
+# 🎨 Rothko Painting
 
-Este projeto é uma recriação simplificada de uma pintura no estilo de Mark Rothko utilizando HTML e CSS. Ele apresenta três blocos coloridos dentro de uma "moldura", imitando o estilo abstrato de Rothko, com camadas de cores e efeitos de desfoque para criar uma sensação de profundidade e suavidade.
+Este projeto recria de forma simplificada uma pintura inspirada no estilo de **Mark Rothko**, utilizando apenas **HTML e CSS**. A página apresenta blocos coloridos com efeitos visuais que simulam profundidade e suavidade, semelhantes às obras abstratas do artista.
 
-Funcionalidades
+## 🚀 Tecnologias Utilizadas
 
-Canvas: Um "quadro" com três blocos coloridos representando camadas de cores, como as pinturas de Rothko.
+- HTML5
+- CSS3
 
-Efeitos de Blur: Usando o CSS filter: blur para criar um efeito suave nas camadas, dando um toque abstrato.
+## 🖌️ Funcionalidades
 
-Transformações e Sombreamento: Cada camada é rotacionada ligeiramente e possui uma sombra para destacar a profundidade.
+- Quadro com três blocos coloridos inspirados em pinturas abstratas
+- Uso de **blur** para criar efeito suave entre as camadas
+- Pequenas rotações e sombras para simular profundidade
+- Moldura estilizada envolvendo o quadro
 
-Estrutura do Código
+## 📂 Estrutura do Projeto
 
-HTML: A estrutura básica contém um contêiner frame que envolve o canvas e três divs representando as camadas de cores.
+rothko-painting/
+├── index.html # Estrutura da página
+└── styles.css # Estilos e efeitos visuais
 
-CSS: As camadas de cor são estilizadas com cores específicas, efeitos de desfoque e transformações leves para criar um estilo semelhante ao de uma pintura abstrata. A moldura em torno do quadro também é estilizada.
+🌐 Acesse o Projeto Online
 
-CSS:
+🔗
 
-.canvas: A área principal do quadro, com largura e altura definidas, além de um fundo vermelho escuro e um leve desfoque aplicado.
 
-.frame: Uma moldura preta ao redor do quadro com padding e margem para centralizar.
+## 🖥️ Como Visualizar
 
-.one, .two, .three: Três divs representando as camadas de cor com diferentes dimensões, cores, bordas arredondadas e efeitos de desfoque. Cada camada tem uma leve rotação para dar um efeito de distorção, criando uma sensação de fluidez.
+1. Clone ou baixe este repositório:
 
-Como Usar
+```bash
+git clone https://github.com/seu-usuario/rothko-painting.git
+Abra o arquivo index.html em qualquer navegador.
 
-Clone este repositório ou baixe os arquivos para o seu computador.
+O quadro será exibido com camadas coloridas e efeitos visuais.
 
-Abra o arquivo index.html em um navegador de sua escolha para visualizar o efeito da pintura.
+🎨 Estrutura Visual
+O layout contém:
 
-O quadro será exibido com camadas de cores em um estilo inspirado nas pinturas de Mark Rothko.
+.frame → Moldura externa do quadro
 
-Como Contribuir
+.canvas → Área principal da pintura
 
-Se você deseja contribuir ou melhorar este projeto, pode:
+.one, .two, .three → Camadas coloridas com efeitos de desfoque e rotação leve
 
-Fazer um fork deste repositório.
+🤝 Contribuições
+Sugestões e melhorias são bem-vindas. Você pode:
 
-Criar um branch para a sua melhoria (git checkout -b minha-melhora).
+Fazer um fork do projeto
 
-Realizar suas alterações.
+Criar melhorias visuais ou efeitos adicionais
 
-Enviar um pull request com uma descrição clara do que foi modificado.
+Enviar um pull request com suas alterações
 
-Licença
+📜 Licença
+Este projeto é de código aberto e pode ser utilizado para fins educacionais e de aprendizado.
 
-Este projeto é de código aberto e distribuído sob a Licença MIT.
-
-Este projeto foi criado para explorar o uso de efeitos CSS, transformações e filtros para criar uma arte simples e abstrata no estilo de Rothko.
+Projeto criado para explorar efeitos visuais e composição artística utilizando apenas CSS.
