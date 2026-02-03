@@ -22,7 +22,7 @@ rothko-painting/
 
 🌐 Acesse o Projeto Online
 
-🔗
+🔗 https://awaldige.github.io/pintura-rothko/
 
 
 ## 🖥️ Como Visualizar
