@@ -10,7 +10,7 @@ A proposta é explorar os recursos do CSS para criar uma composição de formas 
 
 ## 🖼️ Demonstração Visual
 
-Adicione uma captura de tela real do projeto para mostrar a composição final.
+
 
 ## ✨ Conceitos Praticados
 
