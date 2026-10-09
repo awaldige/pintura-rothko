@@ -1,59 +1,74 @@
-# 🎨 Rothko Painting
+# 🎨 Pintura Rothko — Arte Abstrata com CSS
 
-Este projeto recria de forma simplificada uma pintura inspirada no estilo de **Mark Rothko**, utilizando apenas **HTML e CSS**. A página apresenta blocos coloridos com efeitos visuais que simulam profundidade e suavidade, semelhantes às obras abstratas do artista.
+Projeto de arte digital desenvolvido com **HTML5 e CSS3**, inspirado nas composições abstratas do pintor Mark Rothko.
 
-## 🚀 Tecnologias Utilizadas
+A proposta é explorar os recursos do CSS para criar uma composição de formas retangulares, cores, bordas e efeitos visuais, praticando conceitos fundamentais de estilização e layout.
 
-- HTML5
-- CSS3
+## 🌐 Demonstração
 
-## 🖌️ Funcionalidades
+🔗 Acesse a versão online pelo endereço configurado no repositório.
 
-- Quadro com três blocos coloridos inspirados em pinturas abstratas
-- Uso de **blur** para criar efeito suave entre as camadas
-- Pequenas rotações e sombras para simular profundidade
-- Moldura estilizada envolvendo o quadro
+## 🖼️ Demonstração Visual
+
+Adicione uma captura de tela real do projeto para mostrar a composição final.
+
+## ✨ Conceitos Praticados
+
+- Estruturação de páginas com HTML5
+- Estilização e posicionamento com CSS3
+- Box Model: conteúdo, preenchimento, bordas e margens
+- Composição visual com cores e formas geométricas
+- Bordas arredondadas e sombras
+- Filtros e transformações CSS, se utilizados na implementação
+
+## 🧰 Tecnologias Utilizadas
+
+| Tecnologia | Aplicação |
+|---|---|
+| HTML5 | Estrutura da página |
+| CSS3 | Composição artística e efeitos visuais |
 
 ## 📂 Estrutura do Projeto
 
-rothko-painting/
-├── index.html # Estrutura da página
-└── styles.css # Estilos e efeitos visuais
+```text
+pintura-rothko/
+├── index.html
+├── styles.css
+└── README.md
+```
 
-🌐 Acesse o Projeto Online
+Confira os nomes reais dos arquivos no repositório antes de utilizar esta estrutura.
 
-🔗 https://awaldige.github.io/pintura-rothko/
+## ▶️ Como Executar Localmente
 
+1. Clone o repositório:
 
-## 🖥️ Como Visualizar
+   ```bash
+   git clone https://github.com/awaldige/pintura-rothko.git
+   ```
 
-1. Clone ou baixe este repositório:
+2. Entre na pasta:
 
-```bash
-git clone https://github.com/seu-usuario/rothko-painting.git
-Abra o arquivo index.html em qualquer navegador.
+   ```bash
+   cd pintura-rothko
+   ```
 
-O quadro será exibido com camadas coloridas e efeitos visuais.
+3. Abra o arquivo HTML principal no navegador.
 
-🎨 Estrutura Visual
-O layout contém:
+Não é necessário instalar dependências para executar uma página estática simples.
 
-.frame → Moldura externa do quadro
+## 🎯 Objetivo do Projeto
 
-.canvas → Área principal da pintura
+Praticar fundamentos de HTML e CSS por meio de uma composição artística, desenvolvendo conhecimentos sobre layout, cores, formas e efeitos visuais.
 
-.one, .two, .three → Camadas coloridas com efeitos de desfoque e rotação leve
+## 👨‍💻 Autor
 
-🤝 Contribuições
-Sugestões e melhorias são bem-vindas. Você pode:
+**André Waldige — AW TECHNOLOGY**
 
-Fazer um fork do projeto
+🔗 [GitHub: @awaldige](https://github.com/awaldige)
 
-Criar melhorias visuais ou efeitos adicionais
+---
 
-Enviar um pull request com suas alterações
+Projeto educacional inspirado na arte abstrata de Mark Rothko.
 
-📜 Licença
-Este projeto é de código aberto e pode ser utilizado para fins educacionais e de aprendizado.
-
-Projeto criado para explorar efeitos visuais e composição artística utilizando apenas CSS.
+⭐ Se gostou do projeto, considere deixar uma estrela no repositório!
